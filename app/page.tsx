@@ -31,7 +31,7 @@ export default function Home() {
           <Link href={"/canchas"}>
             <Button size={"lg"}>Explorar Canchas</Button>
           </Link>
-          <Link href={"/auth/login"}>
+          <Link href={"/auth"}>
             <Button className="text-white" variant={"link"} size={"lg"}>
               Inciar Sesion
             </Button>
